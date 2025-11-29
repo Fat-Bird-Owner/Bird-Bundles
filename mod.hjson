@@ -1,7 +1,10 @@
 name: "BD"
-displayName: "[[red]]Bird Bundle[[]]"
+displayName: "[][red]Bird Bundle[]"
 author: Fat Bird's Owner
-description: "Funni"
+subTitle: "Bird Count 1"
+description: "
+Makes thing feel better.
+"
 version: "Bird Can Count 1"
 minGameVersion: "153"
 dependencies: [ ]
